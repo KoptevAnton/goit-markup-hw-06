@@ -720,14 +720,13 @@ label {
   position: absolute;
   bottom: 0;
   right: 0;
-}
-
-.footer-submit-flex {
+  padding: 10px 24px;
   display: flex;
+  align-content: center;
   justify-content: center;
-  align-items: center;
   gap: 10px;
 }
+
 /* PORTFOLIO PAGE */
 /* button portfolio */
 .btn-portfolio {
